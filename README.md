@@ -6,4 +6,4 @@ Run your SAP system on Microsoft Azure with [this guide](https://www.sap-press.c
 
 * Migrate SAP systems, optimize performance, and manage costs
 
-Head over to [SAP on Microsoft Azure (SAP Press) authored by Ravi Kashyap](https://www.sap-press.com/sap-on-microsoft-azure_5174/) to get your copy today! 
+Head over to [SAP on Microsoft Azure (SAP Press) authored by Ravi Kashyap](https://www.sap-press.com/sap-on-microsoft-azure_5174/) and grab your copy today! 
